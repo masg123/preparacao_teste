@@ -5,7 +5,8 @@ import java.util.Scanner;
 
 public class exercicio_1 {
 	int valor[] = new int[5];
-	int maior = 0, menor = 0; 
+	int maior = 0;
+	int menor = 0; 
 	
 	for(int i = 0; i < valor.length; i++){
 		
@@ -23,10 +24,10 @@ public class exercicio_1 {
 		}
 	}
 		
-	}
+	
 	System.out.println("Maior valor = "+ maior);
 	System.out.println("Menor valor = "+ menor);
 }
-	
+}	
 	
 
