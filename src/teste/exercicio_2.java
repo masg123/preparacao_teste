@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class exercicio_2 {
 	
-	Scanner reader = new Scanner(System.in);
+	
+		Scanner reader = new Scanner(System.in);
 	private Scanner rand;
 	int sobDesc, cont=0, aux=0;
 	

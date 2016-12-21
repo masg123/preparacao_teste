@@ -10,7 +10,7 @@ public class principal {
 		// TODO Auto-generated method stub
 
 		
-		new exercicio_1 ();
+		new exercicio_2 ();
 	}
 
 }
